@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+h1 {
+  font-size: 30px;
+  line-height: 33px;
+  color: #5e5ca1;
+}
+.registration {
+  height: 40px;
+  width: 40px;
+  border: none;
+  border-radius: 14px;
+  cursor: pointer;
+  margin-left: 0px;
+}
+.registration:hover {
+  background: #dcdaff;
+}

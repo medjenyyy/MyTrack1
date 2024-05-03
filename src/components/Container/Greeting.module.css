@@ -1,0 +1,21 @@
+.greeting {
+  margin-top: 30px;
+  height: 290px;
+  width: 760px;
+  background-color: #9a97da;
+  border-radius: 25px;
+  padding: 1em 2em 2em;
+  text-align: start;
+}
+.bigText {
+  font-size: 32px;
+  color: #fdefef;
+}
+.smallText {
+  color: rgba(253, 239, 239, 0.85);
+  font-size: 22px;
+}
+span {
+  font-weight: 600;
+  color: #f8c2c1;
+}

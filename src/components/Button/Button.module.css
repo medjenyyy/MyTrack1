@@ -1,0 +1,22 @@
+.button {
+  background: #edecfe;
+  border-radius: 9px;
+  border: none;
+  font-size: 13px;
+  line-height: 14px;
+  color: #5051f9;
+  padding: 14px 30px;
+  cursor: pointer;
+  position: relative;
+}
+.button:hover {
+  background: #dcdaff;
+}
+.button img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
